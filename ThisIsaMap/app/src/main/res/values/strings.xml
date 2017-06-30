@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">This Is a Map</string>
+    <string name="mapPrompt">Choose a map type</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDpQKMx-LWjAB_uAqK45_LlGPLCFqmc1AM</string>
+    <string name="latTxt">Latitude:</string>
+    <string name="lngTxt">Longitude:</string>
+    <string-array name="mapTypes">
+        <item>Hybrid</item>
+        <item>Normal</item>
+        <item>Satellite</item>
+        <item>Terrain</item>
+    </string-array>
+
+</resources>
