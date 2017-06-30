@@ -4,6 +4,7 @@
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDpQKMx-LWjAB_uAqK45_LlGPLCFqmc1AM</string>
     <string name="latTxt">Latitude:</string>
     <string name="lngTxt">Longitude:</string>
+    <!--Array dibawah buat isi spinnernya-->
     <string-array name="mapTypes">
         <item>Hybrid</item>
         <item>Normal</item>
